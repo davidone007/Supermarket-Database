@@ -1,5 +1,3 @@
-# Grupo E7
-
 ## **Integrantes**
 
 - Nicolás Cuéllar Molina - A00394970
